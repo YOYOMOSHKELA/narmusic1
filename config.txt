@@ -1,0 +1,6 @@
+owner=431403582277812235
+prefix=1play
+game=Music by nar 
+stayinchannel=true
+songinstatus=false
+token=NTU1MDIwMjc2OTY2ODgzMzI4.D2lGbg.jed-8tJQVxiu5bbPVbueiJry3p4
