@@ -1,5 +1,5 @@
 owner=431403582277812235
-prefix=1play
+prefix=nplay
 game=Music by nar 
 stayinchannel=true
 songinstatus=false
